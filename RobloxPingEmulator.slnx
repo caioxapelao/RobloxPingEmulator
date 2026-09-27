@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RobloxPingEmulator/RobloxPingEmulator.vcxproj" Id="92607f94-0ab0-4db8-9470-48a6db067aab" />
+</Solution>
